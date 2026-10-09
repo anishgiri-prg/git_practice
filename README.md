@@ -12,3 +12,5 @@ This is the first branch i created.
 
 Learning Git step by step.
 
+Practising git pull to sync remote changes.
+
